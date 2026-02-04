@@ -1,0 +1,301 @@
+ticket_id,customer_id,issue_type,priority,status,created_date,resolved_date,department,satisfaction_rating
+1,1327,Login Issue,Medium,Closed,2024-03-16,2024-03-19,Technical,1
+2,1728,App Crash,Low,Open,2024-01-12,,Technical,2
+3,1397,Delivery Delay,High,Open,2024-01-25,,Logistics,5
+4,1971,Delivery Delay,High,Open,2024-02-09,,Logistics,1
+5,1253,Refund Request,High,Open,2024-01-22,,Billing,2
+6,1791,Login Issue,Medium,Closed,2024-02-05,2024-02-07,Technical,4
+7,1961,Payment Issue,Medium,Closed,2024-01-28,2024-02-02,Billing,1
+8,1577,App Crash,High,Open,2024-01-31,,Technical,1
+9,1797,Payment Issue,Medium,Open,2024-01-07,,Billing,3
+10,1389,Login Issue,Low,Closed,2024-01-08,2024-01-10,Technical,1
+11,1492,App Crash,Medium,Closed,2024-02-03,2024-02-06,Technical,1
+12,1570,Delivery Delay,Low,In Progress,2024-03-08,,Logistics,3
+13,1524,Delivery Delay,Low,Closed,2024-03-29,2024-04-04,Logistics,4
+14,1253,Delivery Delay,High,In Progress,2024-02-09,,Logistics,4
+15,1326,Refund Request,Medium,Closed,2024-01-16,2024-01-19,Billing,3
+16,1177,App Crash,Medium,In Progress,2024-03-27,,Technical,2
+17,1418,Login Issue,Medium,Closed,2024-03-17,2024-03-22,Technical,4
+18,1295,Delivery Delay,Medium,In Progress,2024-02-14,,Logistics,5
+19,1472,Delivery Delay,Low,Open,2024-02-05,,Logistics,1
+20,1820,Payment Issue,High,In Progress,2024-03-28,,Billing,5
+21,1979,Login Issue,Medium,Closed,2024-03-18,2024-03-25,Technical,2
+22,1482,App Crash,High,Open,2024-01-07,,Technical,3
+23,1694,App Crash,Medium,Closed,2024-01-24,2024-01-28,Technical,2
+24,1968,Delivery Delay,Low,Closed,2024-02-17,2024-02-22,Logistics,5
+25,1005,Delivery Delay,Low,Closed,2024-03-26,2024-04-02,Logistics,3
+26,1017,Login Issue,Low,Closed,2024-03-06,2024-03-07,Technical,1
+27,1158,App Crash,Medium,Closed,2024-01-08,2024-01-13,Technical,4
+28,1113,Refund Request,Low,Closed,2024-03-10,2024-03-16,Billing,1
+29,1278,Payment Issue,High,In Progress,2024-03-18,,Billing,1
+30,1199,Login Issue,High,Closed,2024-02-19,2024-02-24,Technical,1
+31,1305,Delivery Delay,High,Closed,2024-03-03,2024-03-04,Logistics,3
+32,1643,Login Issue,Low,Closed,2024-03-31,2024-04-02,Technical,4
+33,1803,App Crash,Low,Closed,2024-01-28,2024-02-01,Technical,1
+34,1240,Payment Issue,High,Open,2024-03-26,,Billing,4
+35,1180,Login Issue,Medium,Open,2024-02-07,,Technical,2
+36,1142,App Crash,High,Closed,2024-01-22,2024-01-23,Technical,1
+37,1960,Delivery Delay,Medium,In Progress,2024-03-29,,Logistics,1
+38,1193,Login Issue,Medium,Closed,2024-01-25,2024-01-27,Technical,4
+39,1110,Delivery Delay,Medium,Closed,2024-02-13,2024-02-18,Logistics,2
+40,1292,Delivery Delay,Medium,In Progress,2024-01-13,,Logistics,4
+41,1138,Delivery Delay,Medium,Closed,2024-01-17,2024-01-23,Logistics,4
+42,1448,Delivery Delay,High,Closed,2024-03-13,2024-03-15,Logistics,1
+43,1339,App Crash,Low,Closed,2024-02-13,2024-02-19,Technical,5
+44,1672,App Crash,Low,Closed,2024-02-20,2024-02-22,Technical,3
+45,1038,App Crash,High,Closed,2024-02-10,2024-02-17,Technical,4
+46,1062,App Crash,Medium,Closed,2024-02-08,2024-02-13,Technical,1
+47,1466,Login Issue,Medium,Open,2024-03-10,,Technical,3
+48,1583,Login Issue,Medium,Closed,2024-03-29,2024-04-02,Technical,5
+49,1918,Refund Request,Low,Closed,2024-01-20,2024-01-25,Billing,2
+50,1741,Refund Request,High,Closed,2024-01-29,2024-02-05,Billing,4
+51,1318,App Crash,Low,In Progress,2024-02-05,,Technical,3
+52,1170,Refund Request,Low,In Progress,2024-01-04,,Billing,2
+53,1664,App Crash,Medium,Closed,2024-01-25,2024-02-01,Technical,2
+54,1268,Refund Request,High,In Progress,2024-02-24,,Billing,3
+55,1479,App Crash,Low,In Progress,2024-01-15,,Technical,4
+56,1695,Delivery Delay,Medium,Closed,2024-01-10,2024-01-17,Logistics,5
+57,1311,App Crash,Medium,Closed,2024-02-02,2024-02-05,Technical,5
+58,1584,Refund Request,Medium,Closed,2024-01-18,2024-01-21,Billing,1
+59,1370,Refund Request,High,In Progress,2024-03-16,,Billing,3
+60,1744,App Crash,Medium,Closed,2024-01-25,2024-01-30,Technical,5
+61,1883,Payment Issue,Low,In Progress,2024-01-31,,Billing,1
+62,1533,Delivery Delay,Low,Closed,2024-03-29,2024-04-02,Logistics,1
+63,1814,Login Issue,High,In Progress,2024-03-08,,Technical,4
+64,1720,Login Issue,High,Closed,2024-01-28,2024-02-04,Technical,3
+65,1760,Refund Request,Low,Open,2024-03-27,,Billing,1
+66,1362,App Crash,Medium,In Progress,2024-01-31,,Technical,2
+67,1649,Refund Request,Medium,Closed,2024-03-13,2024-03-14,Billing,3
+68,1408,Refund Request,Medium,In Progress,2024-03-09,,Billing,5
+69,1158,Payment Issue,Medium,In Progress,2024-01-01,,Billing,5
+70,1118,Payment Issue,Medium,Open,2024-03-18,,Billing,1
+71,1766,Delivery Delay,High,Open,2024-01-16,,Logistics,2
+72,1869,Delivery Delay,High,Open,2024-03-08,,Logistics,5
+73,1332,App Crash,High,Closed,2024-03-30,2024-04-06,Technical,4
+74,1322,Login Issue,High,Closed,2024-01-14,2024-01-20,Technical,1
+75,1809,Delivery Delay,High,Closed,2024-03-01,2024-03-06,Logistics,2
+76,1281,Payment Issue,Low,In Progress,2024-03-03,,Billing,5
+77,1557,App Crash,Medium,In Progress,2024-03-07,,Technical,5
+78,1741,Login Issue,High,Closed,2024-02-14,2024-02-18,Technical,1
+79,1433,Login Issue,Medium,Closed,2024-01-16,2024-01-23,Technical,3
+80,1063,App Crash,High,In Progress,2024-03-21,,Technical,1
+81,1212,Login Issue,High,Closed,2024-01-11,2024-01-12,Technical,5
+82,1504,Login Issue,Low,Closed,2024-03-25,2024-04-01,Technical,1
+83,1042,Refund Request,Medium,In Progress,2024-02-04,,Billing,5
+84,1494,Delivery Delay,High,Closed,2024-03-04,2024-03-07,Logistics,2
+85,1101,Delivery Delay,Medium,Open,2024-02-29,,Logistics,3
+86,1486,Payment Issue,High,Closed,2024-03-02,2024-03-07,Billing,5
+87,1838,Delivery Delay,Medium,Closed,2024-02-15,2024-02-21,Logistics,1
+88,1649,Payment Issue,High,Open,2024-03-21,,Billing,5
+89,1286,Delivery Delay,Medium,Open,2024-03-26,,Logistics,1
+90,1142,Login Issue,Medium,Closed,2024-02-08,2024-02-15,Technical,5
+91,1201,Payment Issue,High,Closed,2024-03-05,2024-03-08,Billing,4
+92,1793,Refund Request,Low,Closed,2024-02-02,2024-02-08,Billing,3
+93,1892,App Crash,Medium,Open,2024-01-14,,Technical,2
+94,1658,Refund Request,Low,Closed,2024-02-12,2024-02-17,Billing,2
+95,1453,Refund Request,Low,In Progress,2024-01-25,,Billing,3
+96,1478,Payment Issue,Low,Closed,2024-03-09,2024-03-15,Billing,3
+97,1675,Payment Issue,Medium,Closed,2024-03-13,2024-03-14,Billing,5
+98,1736,Payment Issue,Medium,Closed,2024-03-29,2024-03-30,Billing,2
+99,1064,Login Issue,Low,In Progress,2024-02-11,,Technical,3
+100,1720,Login Issue,Low,Closed,2024-03-14,2024-03-18,Technical,2
+101,1701,App Crash,High,Closed,2024-01-24,2024-01-27,Technical,4
+102,1769,Delivery Delay,Low,Open,2024-02-18,,Logistics,4
+103,1135,Payment Issue,Medium,Open,2024-03-21,,Billing,1
+104,1292,App Crash,High,In Progress,2024-02-17,,Technical,1
+105,1552,App Crash,Medium,Closed,2024-03-01,2024-03-06,Technical,1
+106,1243,Payment Issue,Low,In Progress,2024-01-31,,Billing,5
+107,1325,Refund Request,High,Open,2024-03-06,,Billing,2
+108,1517,Payment Issue,High,Open,2024-03-27,,Billing,5
+109,1842,Payment Issue,Low,Closed,2024-01-31,2024-02-07,Billing,5
+110,1796,Login Issue,High,Closed,2024-01-15,2024-01-19,Technical,3
+111,1769,App Crash,High,Open,2024-02-18,,Technical,5
+112,1161,Login Issue,Low,Open,2024-03-05,,Technical,5
+113,1794,Delivery Delay,Low,Closed,2024-01-14,2024-01-15,Logistics,3
+114,1144,Login Issue,Low,Closed,2024-03-23,2024-03-25,Technical,2
+115,1849,Refund Request,High,Closed,2024-01-12,2024-01-16,Billing,1
+116,1366,Payment Issue,Medium,In Progress,2024-03-08,,Billing,5
+117,1134,App Crash,High,In Progress,2024-02-05,,Technical,3
+118,1895,Login Issue,Low,In Progress,2024-03-02,,Technical,1
+119,1903,Payment Issue,High,Open,2024-01-13,,Billing,4
+120,1572,App Crash,Low,Open,2024-02-22,,Technical,4
+121,1957,Delivery Delay,Medium,Closed,2024-03-27,2024-04-01,Logistics,5
+122,1100,App Crash,Low,Closed,2024-02-13,2024-02-14,Technical,1
+123,1206,App Crash,High,In Progress,2024-01-16,,Technical,5
+124,1707,Refund Request,Low,Open,2024-02-11,,Billing,5
+125,1993,Payment Issue,High,Closed,2024-03-10,2024-03-16,Billing,5
+126,1435,Delivery Delay,Medium,Open,2024-03-29,,Logistics,2
+127,1183,App Crash,Medium,Closed,2024-03-20,2024-03-26,Technical,1
+128,1898,Login Issue,High,Closed,2024-03-23,2024-03-26,Technical,1
+129,1184,Delivery Delay,Low,Closed,2024-03-10,2024-03-11,Logistics,5
+130,1149,Delivery Delay,Low,Open,2024-03-10,,Logistics,3
+131,1144,Payment Issue,High,Open,2024-03-22,,Billing,3
+132,1138,Payment Issue,High,In Progress,2024-01-21,,Billing,1
+133,1265,Login Issue,Medium,Closed,2024-02-27,2024-03-01,Technical,3
+134,1677,Delivery Delay,Medium,Closed,2024-01-20,2024-01-25,Logistics,2
+135,1176,Payment Issue,High,In Progress,2024-02-11,,Billing,4
+136,1483,Login Issue,High,In Progress,2024-01-28,,Technical,4
+137,1189,Refund Request,Low,In Progress,2024-02-19,,Billing,1
+138,1588,Delivery Delay,Low,Open,2024-03-27,,Logistics,1
+139,1490,Payment Issue,Low,In Progress,2024-02-25,,Billing,2
+140,1819,App Crash,Medium,Open,2024-03-25,,Technical,3
+141,1875,Refund Request,High,Closed,2024-03-14,2024-03-17,Billing,2
+142,1625,Payment Issue,Medium,Closed,2024-01-15,2024-01-19,Billing,5
+143,1135,Delivery Delay,High,Closed,2024-03-31,2024-04-07,Logistics,3
+144,1075,Payment Issue,High,Closed,2024-03-23,2024-03-30,Billing,2
+145,1700,Delivery Delay,Low,Open,2024-01-28,,Logistics,3
+146,1084,Delivery Delay,High,Closed,2024-02-20,2024-02-25,Logistics,3
+147,1940,Delivery Delay,High,Open,2024-01-06,,Logistics,1
+148,1538,Login Issue,High,Open,2024-02-10,,Technical,3
+149,1457,App Crash,Low,Closed,2024-03-30,2024-04-04,Technical,3
+150,1313,Login Issue,High,In Progress,2024-01-26,,Technical,5
+151,1605,Payment Issue,Low,Closed,2024-01-01,2024-01-02,Billing,1
+152,1200,Payment Issue,Medium,Open,2024-03-19,,Billing,2
+153,1109,Delivery Delay,Medium,Closed,2024-03-15,2024-03-20,Logistics,5
+154,1116,Delivery Delay,High,In Progress,2024-02-18,,Logistics,5
+155,1961,Payment Issue,Medium,Closed,2024-01-05,2024-01-07,Billing,5
+156,1829,Login Issue,Medium,Open,2024-03-06,,Technical,2
+157,1643,Login Issue,Medium,Closed,2024-02-09,2024-02-10,Technical,4
+158,1941,Payment Issue,Medium,Closed,2024-01-16,2024-01-19,Billing,3
+159,1249,Login Issue,Low,Open,2024-02-18,,Technical,4
+160,1890,Login Issue,Medium,Open,2024-02-19,,Technical,3
+161,1365,App Crash,Medium,Closed,2024-02-27,2024-03-02,Technical,2
+162,1116,Payment Issue,High,Closed,2024-01-29,2024-02-01,Billing,5
+163,1865,Login Issue,Low,In Progress,2024-03-31,,Technical,3
+164,1559,Login Issue,Low,In Progress,2024-03-17,,Technical,3
+165,1865,Login Issue,High,Open,2024-02-08,,Technical,2
+166,1530,Payment Issue,Medium,In Progress,2024-01-16,,Billing,5
+167,1961,Delivery Delay,Low,Closed,2024-01-20,2024-01-26,Logistics,3
+168,1147,Refund Request,Low,Open,2024-03-30,,Billing,3
+169,1634,Refund Request,Medium,Closed,2024-02-15,2024-02-18,Billing,5
+170,1116,Delivery Delay,High,Closed,2024-02-05,2024-02-10,Logistics,1
+171,1137,Refund Request,Medium,In Progress,2024-03-20,,Billing,5
+172,1938,Login Issue,Medium,Closed,2024-02-04,2024-02-08,Technical,4
+173,1601,Delivery Delay,Low,Open,2024-02-08,,Logistics,1
+174,1720,Payment Issue,Medium,Closed,2024-03-13,2024-03-19,Billing,5
+175,1559,Refund Request,Low,In Progress,2024-03-30,,Billing,2
+176,1843,Login Issue,Low,Open,2024-03-08,,Technical,4
+177,1853,Delivery Delay,High,Closed,2024-01-14,2024-01-18,Logistics,2
+178,1850,Payment Issue,High,In Progress,2024-02-19,,Billing,1
+179,1805,Payment Issue,Low,Closed,2024-02-20,2024-02-21,Billing,3
+180,1662,Payment Issue,Low,In Progress,2024-02-10,,Billing,1
+181,1199,Delivery Delay,Low,In Progress,2024-03-08,,Logistics,5
+182,1395,Delivery Delay,Low,Closed,2024-02-09,2024-02-12,Logistics,1
+183,1262,Delivery Delay,High,Closed,2024-02-20,2024-02-23,Logistics,3
+184,1965,App Crash,Medium,Closed,2024-03-01,2024-03-07,Technical,4
+185,1122,Login Issue,Low,In Progress,2024-02-26,,Technical,2
+186,1908,App Crash,High,In Progress,2024-02-15,,Technical,1
+187,1005,Login Issue,Low,Open,2024-03-22,,Technical,1
+188,1170,Refund Request,Low,In Progress,2024-03-02,,Billing,5
+189,1659,Delivery Delay,High,Closed,2024-03-14,2024-03-21,Logistics,1
+190,1247,Delivery Delay,Low,Open,2024-02-28,,Logistics,1
+191,1022,Delivery Delay,Low,Closed,2024-01-16,2024-01-23,Logistics,2
+192,1552,Login Issue,High,In Progress,2024-03-02,,Technical,4
+193,1282,Refund Request,High,Open,2024-01-12,,Billing,4
+194,1873,Delivery Delay,Low,Open,2024-01-30,,Logistics,2
+195,1812,Refund Request,Medium,Closed,2024-01-11,2024-01-18,Billing,1
+196,1831,Delivery Delay,Low,In Progress,2024-02-12,,Logistics,2
+197,1201,Delivery Delay,Medium,Closed,2024-03-20,2024-03-25,Logistics,2
+198,1974,App Crash,Low,Closed,2024-01-06,2024-01-12,Technical,3
+199,1993,Delivery Delay,Low,Open,2024-03-31,,Logistics,3
+200,1524,Delivery Delay,Medium,Closed,2024-03-04,2024-03-08,Logistics,1
+201,1730,Payment Issue,Low,Open,2024-01-04,,Billing,4
+202,1497,Delivery Delay,Medium,Open,2024-01-11,,Logistics,2
+203,1690,App Crash,Low,Open,2024-02-08,,Technical,4
+204,1406,Refund Request,High,Closed,2024-02-26,2024-03-02,Billing,4
+205,1789,Refund Request,Low,Closed,2024-02-22,2024-02-27,Billing,3
+206,1021,App Crash,Low,Open,2024-03-24,,Technical,5
+207,1574,Payment Issue,High,Closed,2024-03-20,2024-03-27,Billing,1
+208,1020,Login Issue,High,Open,2024-03-17,,Technical,4
+209,1031,Refund Request,High,In Progress,2024-02-23,,Billing,3
+210,1588,Payment Issue,Low,Closed,2024-01-22,2024-01-27,Billing,3
+211,1236,Refund Request,High,Closed,2024-01-23,2024-01-28,Billing,4
+212,1364,Login Issue,Low,Open,2024-03-22,,Technical,2
+213,1113,Refund Request,Medium,Closed,2024-03-13,2024-03-14,Billing,4
+214,1568,Refund Request,High,Open,2024-02-12,,Billing,1
+215,1654,Payment Issue,Low,Open,2024-03-29,,Billing,2
+216,1614,Refund Request,Low,Closed,2024-02-11,2024-02-15,Billing,4
+217,1681,Payment Issue,Medium,Open,2024-01-28,,Billing,1
+218,1313,Delivery Delay,Medium,Closed,2024-03-07,2024-03-11,Logistics,2
+219,1617,Payment Issue,Low,Closed,2024-02-24,2024-02-26,Billing,1
+220,1384,Login Issue,Medium,Open,2024-03-04,,Technical,4
+221,1478,Payment Issue,Medium,Closed,2024-02-16,2024-02-20,Billing,1
+222,1478,Delivery Delay,Medium,Open,2024-02-07,,Logistics,1
+223,1604,Refund Request,Low,Closed,2024-01-01,2024-01-07,Billing,5
+224,1010,Refund Request,Medium,Closed,2024-02-28,2024-03-06,Billing,2
+225,1441,App Crash,Medium,Closed,2024-01-09,2024-01-13,Technical,4
+226,1221,App Crash,Medium,Closed,2024-03-17,2024-03-22,Technical,4
+227,1761,Refund Request,High,Closed,2024-03-30,2024-04-02,Billing,3
+228,1942,Payment Issue,Low,In Progress,2024-03-27,,Billing,5
+229,1512,App Crash,Medium,In Progress,2024-02-29,,Technical,1
+230,1898,Login Issue,Medium,Closed,2024-02-01,2024-02-02,Technical,5
+231,1860,Payment Issue,Medium,In Progress,2024-02-03,,Billing,2
+232,1229,Refund Request,Low,In Progress,2024-03-01,,Billing,4
+233,1585,App Crash,High,Closed,2024-02-06,2024-02-11,Technical,5
+234,1837,Delivery Delay,High,Closed,2024-01-22,2024-01-25,Logistics,3
+235,1733,Login Issue,High,Closed,2024-01-31,2024-02-02,Technical,1
+236,1827,Login Issue,Low,Closed,2024-02-08,2024-02-12,Technical,2
+237,1541,Delivery Delay,Low,Closed,2024-03-01,2024-03-07,Logistics,5
+238,1532,Refund Request,Low,Closed,2024-02-09,2024-02-13,Billing,1
+239,1545,App Crash,Low,Closed,2024-01-22,2024-01-26,Technical,5
+240,1408,Payment Issue,Medium,Closed,2024-01-09,2024-01-12,Billing,3
+241,1369,Payment Issue,High,Closed,2024-03-05,2024-03-11,Billing,5
+242,1783,Payment Issue,Medium,Closed,2024-02-23,2024-02-28,Billing,5
+243,1148,Payment Issue,Medium,Closed,2024-03-21,2024-03-25,Billing,5
+244,1533,Payment Issue,High,In Progress,2024-02-04,,Billing,2
+245,1264,Login Issue,Low,Open,2024-01-16,,Technical,1
+246,1380,Login Issue,Low,Open,2024-02-06,,Technical,2
+247,1133,Payment Issue,Medium,Closed,2024-02-13,2024-02-17,Billing,1
+248,1715,Login Issue,High,Closed,2024-03-29,2024-04-02,Technical,4
+249,1231,App Crash,Medium,In Progress,2024-01-13,,Technical,5
+250,1777,App Crash,Medium,Open,2024-01-22,,Technical,5
+251,1781,Payment Issue,Medium,Closed,2024-01-11,2024-01-15,Billing,2
+252,1715,App Crash,Medium,Open,2024-02-04,,Technical,1
+253,1153,Refund Request,Low,Closed,2024-03-03,2024-03-04,Billing,5
+254,1161,Refund Request,Low,In Progress,2024-02-25,,Billing,4
+255,1274,App Crash,Low,Closed,2024-03-31,2024-04-02,Technical,1
+256,1472,Payment Issue,Medium,In Progress,2024-03-25,,Billing,4
+257,1128,Payment Issue,Medium,Open,2024-03-13,,Billing,5
+258,1110,Payment Issue,Medium,Closed,2024-01-14,2024-01-18,Billing,1
+259,1751,Login Issue,Low,Closed,2024-01-29,2024-02-04,Technical,1
+260,1963,Delivery Delay,Medium,Closed,2024-03-29,2024-04-04,Logistics,1
+261,1866,App Crash,Medium,Closed,2024-01-28,2024-01-29,Technical,5
+262,1063,Payment Issue,Low,In Progress,2024-03-14,,Billing,1
+263,1692,Payment Issue,High,Open,2024-03-15,,Billing,4
+264,1873,App Crash,High,Open,2024-02-07,,Technical,2
+265,1179,App Crash,Medium,Closed,2024-01-30,2024-02-06,Technical,2
+266,1196,Delivery Delay,Low,Closed,2024-03-09,2024-03-12,Logistics,1
+267,1767,Payment Issue,High,Closed,2024-01-29,2024-02-02,Billing,1
+268,1586,Payment Issue,High,In Progress,2024-03-07,,Billing,4
+269,1314,App Crash,High,Closed,2024-02-08,2024-02-12,Technical,3
+270,1312,Refund Request,Medium,Open,2024-01-08,,Billing,1
+271,1183,Refund Request,Medium,In Progress,2024-03-06,,Billing,4
+272,1023,App Crash,High,In Progress,2024-02-09,,Technical,1
+273,1609,Refund Request,High,In Progress,2024-02-01,,Billing,3
+274,1223,Login Issue,High,Closed,2024-03-28,2024-04-02,Technical,1
+275,1253,Delivery Delay,Medium,Closed,2024-03-04,2024-03-10,Logistics,1
+276,1057,Login Issue,Medium,Open,2024-01-06,,Technical,2
+277,1613,Refund Request,Low,Open,2024-02-13,,Billing,1
+278,1891,App Crash,Low,Open,2024-01-11,,Technical,1
+279,1411,App Crash,Medium,Closed,2024-01-13,2024-01-14,Technical,3
+280,1962,Login Issue,Low,Open,2024-02-26,,Technical,3
+281,1206,App Crash,Medium,Closed,2024-02-15,2024-02-17,Technical,2
+282,1332,App Crash,Low,In Progress,2024-03-22,,Technical,5
+283,2000,App Crash,Low,In Progress,2024-02-12,,Technical,5
+284,1833,App Crash,Low,Closed,2024-02-23,2024-03-01,Technical,1
+285,1244,Login Issue,High,Closed,2024-02-24,2024-02-29,Technical,1
+286,1549,Delivery Delay,High,Closed,2024-03-26,2024-03-30,Logistics,3
+287,1481,Delivery Delay,High,Closed,2024-02-08,2024-02-10,Logistics,2
+288,1958,App Crash,Medium,In Progress,2024-03-27,,Technical,5
+289,1765,Delivery Delay,High,Closed,2024-01-03,2024-01-10,Logistics,5
+290,1777,Refund Request,Low,Open,2024-01-05,,Billing,2
+291,1619,Refund Request,Medium,Open,2024-02-06,,Billing,2
+292,1436,Refund Request,High,Closed,2024-01-09,2024-01-10,Billing,2
+293,1086,Login Issue,High,In Progress,2024-03-10,,Technical,5
+294,1317,Login Issue,Medium,Closed,2024-03-16,2024-03-21,Technical,4
+295,1494,Refund Request,Medium,Closed,2024-03-03,2024-03-07,Billing,3
+296,1704,Refund Request,Low,In Progress,2024-02-18,,Billing,4
+297,1400,Refund Request,Medium,Closed,2024-03-17,2024-03-21,Billing,3
+298,1624,Login Issue,High,Closed,2024-03-29,2024-04-05,Technical,2
+299,1103,Login Issue,Medium,In Progress,2024-03-02,,Technical,3
+300,1276,Refund Request,High,Closed,2024-01-01,2024-01-03,Billing,3
