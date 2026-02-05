@@ -1,3 +1,4 @@
+⭐ End-to-end SQL + Tableau project focused on real-world customer support analytics.
 # Customer Support Ticket Analysis 📊
 
 ## Overview
