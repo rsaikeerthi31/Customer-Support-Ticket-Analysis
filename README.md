@@ -1,28 +1,40 @@
-# Customer Support Ticket Analysis System
+# Customer Support Ticket Analysis 📊
 
-## Tech Stack
-- SQL (MySQL)
-- Python (Pandas, Matplotlib)
-- Tableau
+## Overview
+End-to-end analysis of 300 customer support tickets using **SQL, Python, and Tableau** to identify issue trends, resolution efficiency, and customer satisfaction patterns.
 
-## Project Overview
-This project performs an end-to-end analysis of customer support tickets to identify common issues, resolution efficiency, and department workload.
+## Tools Used
+- MySQL (data analysis)
+- Python (data generation)
+- Tableau Public (visualization)
+
+## Key Insights
+- Delivery Delay is the most frequent and slowest-resolving issue
+- Technical and Billing departments handle the highest ticket volume
+- High-priority tickets have longer resolution times
+- Faster resolution correlates with higher customer satisfaction
+- Monthly ticket volume shows an increasing trend
+
+## Dashboard Preview
+![Dashboard](screenshots/dashboard.png)
+
+## SQL Analysis
+All analysis queries are available in:
+
+
+sql/analysis_queries.sql
+
+## Tableau Dashboard
+👉 Tableau Public Link:  
+https://public.tableau.com/app/profile/sai.keerthi.rudraraju/viz/Book1_17702720615150/CustomerSupportTicketAnalysisDashboardSQLTableauProject?publish=yes
+
+
+[🔗 View Interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/sai.keerthi.rudraraju/viz/Book1_17702720615150/CustomerSupportTicketAnalysisDashboardSQLTableauProject?publish=yes)
+
+
+### 📊 Explore the interactive Tableau dashboard
+Click the link above to view the full interactive dashboard on Tableau Public, including key visualizations like issue frequency, resolution trends, priority impact and satisfaction analysis.
+
 
 ## Dataset
-- 300 customer support tickets
-- Fields include issue type, priority, status, created and resolved dates, department, and customer satisfaction rating
-
-## Key Analysis & Insights
-- Analyzed 300 customer support tickets using MySQL
-- Identified Delivery Delay as the most frequent and slowest-resolving issue
-- Found that Technical and Billing departments handle the highest ticket volume
-- Detected multiple high-priority unresolved tickets requiring escalation
-- Provided data-driven insights to improve support efficiency and customer satisfaction
-
-## Tools & Techniques
-- SQL: Aggregations, GROUP BY, date functions, NULL handling
-- Python: Data processing and visualization
-- Tableau: Interactive dashboards for business insights
-
-## Business Impact
-This analysis helps management identify bottlenecks, prioritize critical tickets, and improve overall customer support performance.
+Synthetic dataset (300 rows) generated using Python to simulate real-world customer support data.
